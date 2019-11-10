@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744598348967",
+    "firebase_url": "https://social-app-89dad.firebaseio.com",
+    "project_id": "social-app-89dad",
+    "storage_bucket": "social-app-89dad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744598348967:android:27f79944936cc9321b2782",
+        "android_client_info": {
+          "package_name": "com.blooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744598348967-1cqjfohcr4qt3n3ekjjpcbkgn3sfvvld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4hkaVLzK3aRWUMSjBrzVAXgHLsU274XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744598348967-1cqjfohcr4qt3n3ekjjpcbkgn3sfvvld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
